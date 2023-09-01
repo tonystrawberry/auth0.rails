@@ -1,24 +1,21 @@
-# README
+<p align="center">
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/auth0-logo-png-transparent.png" width="60" />
+</p>
+<h1 align="center">
+  Authentication with Auth0
+</h1>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Following the tutorial provided by Auth0 for providing authentication to a Ruby on Rails application: https://auth0.com/docs/quickstart/webapp/rails/interactive
 
-Things you may want to cover:
 
-* Ruby version
+## 🚀 Quick start
 
-* System dependencies
+1. Install the libraries.
+```
+bundle install
+```
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+2. Run the Rails server.
+```
+rails s
+```
